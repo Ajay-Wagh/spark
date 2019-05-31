@@ -5,4 +5,4 @@ Being a completely student-organized festival, Spark believes in practical learn
 Spark is an Online Quiz and informative Application developed by me for Spark 2019. It uses firebase realtime database for storing user information and firebase files for question's txt file.
 
 There were 4 debug releases, 1 final fix release and one final release. App is programmed using android studio, without using any cross platform frameworks.
-for more information and source code feel free to mail on aw454565@gmail.com
+for more information and source code, feel free to mail on aw454565@gmail.com
